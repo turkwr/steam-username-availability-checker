@@ -1,0 +1,11 @@
+{
+  "name": "steam-username-scraper",
+  "description": "🔎 Find a username of any length you want on Steam",
+  "main": "scrape.js",
+  "author": {
+    "name": "turker"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
